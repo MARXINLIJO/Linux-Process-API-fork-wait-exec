@@ -44,8 +44,8 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
-##OUTPUT
-![image](https://github.com/MARXINLIJO/Linux-Process-API-fork-wait-exec/assets/145742540/a4c8f888-2dd6-4aa4-9e4d-fd6f887003ec)
+## OUTPUT
+![alt text](<Screenshot 2024-05-09 200020.png>)
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
 #include <stdio.h>
@@ -72,8 +72,8 @@ int main() {
 }
 ```
 
-##OUTPUT
-![image](https://github.com/MARXINLIJO/Linux-Process-API-fork-wait-exec/assets/145742540/143029f9-dfc9-4d7e-b060-b5686a127f1a)
+## OUTPUT
+![alt text](<Screenshot 2024-05-09 200033.png>)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -105,7 +105,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
-![image](https://github.com/MARXINLIJO/Linux-Process-API-fork-wait-exec/assets/145742540/54ce4499-f59b-481e-8a3e-ba36d2c028cb)
+## OUTPUT
+![alt text](<Screenshot 2024-05-09 200042.png>)
 # RESULT:
 The programs are executed successfully.
